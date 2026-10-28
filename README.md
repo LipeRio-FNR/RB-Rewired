@@ -9,15 +9,25 @@ if you want to set up the game and system, check the Rock Band Re-Wired official
 
 *controller support*
 Rock band Re-Wired supports:
+
 -Dualshock(R)2 support for drums and guitar/bass
+
 -Most generic PS2 and PS3 Guitar Hero Guitar controllers
+
 -All official PS2 Guitar Hero Guitar controllers
+
 -All official PS3 Rock Band Guitar Controllers
+
 -Most generic PS3 (4-lane) Drum controllers*
+
 -All official PS3 Rock Band Drum controllers
+
 -All official PS3 Rock Band and Guitar Hero Logitech USB Microphones
+
 -Karaoke Revolution official USB Microphone*
+
 (* = untested on real hardware)
+
 
 # Rock Band Re-wired features
 all the features present in the PS2 version of Rock Band 2 Deluxe are kept unchanged, the only thing currently missing is a proper tour mode (figuring out how to make it work)
