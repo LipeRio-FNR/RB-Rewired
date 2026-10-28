@@ -7,7 +7,7 @@ it is a Rock Band game made as a fun little project, created originally as a PC 
 # setting up
 if you want to set up the game and system, check the Rock Band Re-Wired official instruction manual (on the releases page)
 
-*controller support*
+# controller support
 Rock band Re-Wired supports:
 
 -Dualshock(R)2 support for drums and guitar/bass
